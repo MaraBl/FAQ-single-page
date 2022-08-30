@@ -34,8 +34,8 @@ bg-cyan {
    font-weight: bold;
   font-size: 2rem;
   }
-#search{
-    display:flex;
+
+#search {
     background-color: #01384f;
     padding:30px;
   color: #fff;
