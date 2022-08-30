@@ -20,6 +20,10 @@ html,body{
     margin-top: 20px 0;
 }
 
+bg-cyan {
+  background-color: #00b3c8;
+   }
+
 .title {
   padding: 30px;
   color: #01384f;
