@@ -27,6 +27,8 @@ bg-cyan {
 .title {
   padding: 30px;
   color: #01384f;
+  background-color: #00b3c8;
+  margin: 0;
   }
 
 .number {
