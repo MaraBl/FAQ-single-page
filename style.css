@@ -25,6 +25,7 @@ bg-cyan {
    }
 
 .title {
+  border-radius: 20px 20px 0 0;
   padding: 30px;
   color: #01384f;
   background-color: #00b3c8;
