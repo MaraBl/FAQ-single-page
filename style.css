@@ -94,8 +94,13 @@ list-style-type: none
 
 .accordion:hover .accordion__title, .accordion__active .accordion__title {
   background: var(--color-primary-4);
-  border-radius: 20px 20px 0 0;
 }
+
+accordion__active .accordion__title {
+   border-radius: 20px 20px 0 0;
+}
+
+
 .accordion__content-wrap {
   background: var(--color-base-1);
   overflow: hidden;
