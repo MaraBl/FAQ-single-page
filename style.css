@@ -89,7 +89,7 @@ list-style-type: none
   transition: 0.3s all;
   background-color: #bbbdbf;
   border-radius: 20px;
-  margin-top: 2rem;
+  margin-top: 1rem;
 }
 
 .accordion:hover .accordion__title, .accordion__active .accordion__title {
