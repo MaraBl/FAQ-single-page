@@ -88,9 +88,13 @@ list-style-type: none
   align-items: center;
   transition: 0.3s all;
   background-color: #bbbdbf;
+  border-radius: 20px;
+  margin-top: 2rem;
 }
+
 .accordion:hover .accordion__title, .accordion__active .accordion__title {
   background: var(--color-primary-4);
+  border-radius: 20px 20px 0 0;
 }
 .accordion__content-wrap {
   background: var(--color-base-1);
